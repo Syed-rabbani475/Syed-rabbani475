@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Devops,CI/CD Integration and Testing,selenium with JAVA, API Automation Testing using REST Assured
 - 💞️ I’m looking to collaborate on Developers, testers, and operations teams collaborate at every stage of the software lifecycle.
 - 📫 How to reach me syedrabbani.ece@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...hi
 - ⚡ Fun fact: ...
 
 <!---
